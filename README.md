@@ -1,6 +1,6 @@
 Video EccoShot - GIT
 ======
-[_Vídeo do Youtube de 24/05/2021_](link "Link do vídeo")
+[_Vídeo do Youtube de 27/05/2021_](https://www.youtube.com/watch?v=krpdxcTeiKc "Link do vídeo")
 <br><br>
 ### **Taígo Soares**
 :earth_americas: &nbsp; [EccoDX](http://eccodx.com) <br>
